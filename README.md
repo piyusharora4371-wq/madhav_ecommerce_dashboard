@@ -1,5 +1,7 @@
 # MADHAV_ECOMMERCE_DASHBOARD USING POWER BI..
 
+![ss](https://github.com/piyusharora4371-wq/madhav_ecommerce_dashboard/blob/main/MADHAV_ECOMMERCE_DASHBOARD_LOGO.png)
+
 Project Overview
 
 The Madhav Ecommerce Sales Dashboard is an interactive data visualization project built using Power BI. It provides insights into sales performance, profit trends, customer behavior, and product category distribution.
@@ -25,6 +27,7 @@ DAX (Data Analysis Expressions) – Calculations & Measures
 
 
 📊 Key Insights
+
 Highest sales contribution comes from Clothing category (63%)
 COD is the most preferred payment mode (44%)
 Certain months show negative profit trends indicating loss periods
@@ -33,5 +36,7 @@ Top-performing states contribute significantly to overall revenue
 📁 madhav-ecommerce-dashboard
  ┣ 📄 Madhav_Ecommerce_Dashboard.pbix
 
-![ss](https://github.com/piyusharora4371-wq/madhav_ecommerce_dashboard/blob/main/MADHAV_ECOMMERCE_DASHBOARD_LOGO.png)
+
+
+![ss](https://github.com/piyusharora4371-wq/madhav_ecommerce_dashboard/blob/main/2026-04-28.png)
 
