@@ -33,7 +33,5 @@ Top-performing states contribute significantly to overall revenue
 📁 madhav-ecommerce-dashboard
  ┣ 📄 Madhav_Ecommerce_Dashboard.pbix
 
-![ss]()
- ┣ 📄 dashboard.png
- ┗ 📄 README.md
-⚙️ How to Use
+![ss](https://github.com/piyusharora4371-wq/madhav_ecommerce_dashboard/blob/main/MADHAV_ECOMMERCE_DASHBOARD_LOGO.png)
+
